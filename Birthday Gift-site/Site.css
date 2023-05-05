@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    background-color:#a2d2ff;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+h1 , h2 , h4{
+    text-shadow: 0 0 1px black;}
+#Goat-img{ 
+    width: 150px;
+    border-radius: 50%;
+    border:6px solid #efb0c9;
+}
+#e-age{
+    background-color: #efb0c9;
+    width: 150px;
+    height: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 0 10px 0;
+
+}
+
+#e-date {
+    background-color: #efb0c9;
+    width: 80px;
+    height: 25px;
+    padding: 10px 20px 5px 8px;
+    margin: 0;
+}
+#header
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.Gift-Section
+{
+    margin-top: 50px;
+}
+.Gift-hint 
+{ 
+margin-top: 50px;
+}
+.Gift-title
+{
+    margin-bottom:10px; 
+}
+
+.Gift-img
+{
+    margin: 0 auto;
+   width: 450px; 
+   height: 600px;
+   border: 6px solid white;
+   border-radius: 10px;
+   background-image: url("image/Champions trophy.jpeg");
+   background-size: cover;
+}
+#gift-img-champ:hover
+{
+   background-image: url("image/cr7cham.webp"); 
+    background-size:cover;
+}
+.Gift-img2
+{
+    margin: 0 auto;
+   width: 450px; 
+   height: 600px;
+   border: 6px solid white;
+   border-radius: 10px;
+   background-image: url("image/Realmad2.jpeg");
+   background-size:cover;  
+}
+#gift-img-real:hover{
+    background-image: url("image/cr7real.webp"); 
+    background-size:cover;
+}
+
+.Gift-img3
+{
+    margin: 0 auto;
+   width: 450px; 
+   height: 600px;
+   border: 6px solid white;
+   border-radius: 10px;
+   background-image: url("image/ball.jpeg");
+   background-size:cover;  
+}
+#gift-img-ball:hover{
+    background-image: url("image/CR7Ballandeor.jpg"); 
+    background-size:cover;
+}
+    
